@@ -1,0 +1,53 @@
+.home{
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.homebtn{
+    /* margin: 90px;     */
+}
+
+.flex8{
+    flex: 6;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    /* flex-direction: row; */
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    flex: 2;
+    /* align-items: center; */
+
+}
+.login{
+    margin: 8px;
+    /* margin-right: -8px; */
+    
+}
+.links{
+    display: flex;
+} 
+.flex1{
+    flex: 1;
+    margin: 8px;
+
+}
+
+.cont{
+    margin: 10px;
+}
+
+.cont:hover{
+    background-color: black;
+}

@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 500px;
+    width: 1180px;
+    width: 100%;
+
+}
+.flex1{
+    display: flex;
+    justify-content: flex-end;
+    
+    flex: 1;
+}
+.flexfordiv1{
+    display: flex;
+    flex: 1;
+}
+.flexfordiv2{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.topmargins{
+    margin-top: 5px;
+    width: 150px;
+    margin-left: 350px;
+}
+.cp{
+    margin-top: 20px;
+}
+.em{
+    margin-top: 25px;
+}
+.p{
+    margin-top: 20px;
+}
+.br{
+    border-radius: 40px;
+    padding: 8px;
+}
+.msi{
+    margin-top: -270px;
+}
+.widh{
+    width: 500px;
+    height: 240px;
+    margin-left:350px;
+    margin-top: -5px;
+
+}
+.wm{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.proceed{
+    margin-left: 280px;
+}
+.proceed1{
+    margin-bottom: 20px;
+    margin-left: 350px;
+}
+.im{
+    height: 200px;
+    width: 500px;
+    margin-left: 130px;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+}
+.m{
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-left: 184px;
+    margin-right: -70px;
+}
+.c{
+    margin-top: 110px;
+    margin-top: 130px;
+    margin-left: 120px;
+    margin-left: 70px;
+    margin-right: -120px;
+    margin-left: 175px;
+
+}
+.b{
+    margin-left: 390px;
+}
+a{
+    text-decoration: none
+}
+.cl{
+    height: 40px;
+    width: 40px;
+    margin-left: 340px;
+    margin-top: -30px;
+}
+.hw{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,65 @@
+*{
+    margin:0;
+
+}
+
+body{
+    height: 480px;
+    
+}
+ 
+ 
+ .displayFlex{
+    height: 200px;
+    display: flex;
+    
+
+
+}
+.flexFordiv1{
+    flex: 1;
+}.flexFordiv2{
+    flex: 1;
+}
+
+
+.hwimage1{
+    height: 250px;
+    width: 400px;
+}
+.hwa1{
+    margin-top: 80px;
+    margin-left: 270px;
+    color: black;
+    text-decoration: none;
+    background: #D9D9D9;
+    padding: 50px;
+}
+.hwimage2{
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.hwdiv2{
+    margin-top: 80px;
+    margin-left: 230px;
+}
+.hwa2{
+    border-radius: 15px;
+    text-decoration: none;
+    background: #39CD8F;
+    padding: 10px;
+    color: black;
+}
+.hwimage3{
+    margin-left: 500px;
+    height: 80px;
+    margin-top: 55px;
+
+}
+.hwa3{
+    margin-left: 40px;
+}
+.hwa4{
+    margin-left: 40px;
+}

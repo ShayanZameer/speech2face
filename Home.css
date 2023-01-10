@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    /* width: 100%; */
+    /* height: 100%; */
+}
+body{
+    /* display: flex; */
+    
+}
+.flex1{
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    
+    align-items: center;
+    
+}
+.page{
+    height: 600px;
+    display: flex;
+}
+.class1{
+
+    flex: 1;
+    height: 100%;
+    display: flex;
+    background-color: #39CD8F;
+}
+.class2{
+    flex: 4;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    width: 4rem;
+    border-radius: 40px     ;
+    
+}
+ul{
+    list-style: none;text-decoration: none;
+    padding: 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+.class3{
+    margin: 10px;
+}
+.marginbottoml1{
+    margin-top: 200px;
+
+}
+.margintopl3{
+    margin-top:-130px;
+
+}
+.margintopl4{
+    margin-top: -230px;
+}
+.margintopl2{
+    margin-bottom: 50px;
+}
+
+.padding{
+    background-color: #6C63FF;
+    padding: 10px;
+    padding-right: 40px;
+    
+}
+.margin{
+    margin-left: 50px;
+}
+.buttons{
+    display: flex;
+}
+.flex11{
+    flex: 2;
+    flex-direction: column;
+}
+.justifycontentend{
+    display: flex;
+    justify-content: end;
+    margin-right:100px ;
+    height: 40px;
+    margin-top: 10px;
+}
+.justifycontentcenter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: x-large;
+}
+.div3margins{
+    margin-left: 280px;
+    margin-top: -40px;
+}
+
+.div4margins{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.anchormargin{
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 10px;
+}
+.buttonMargins{
+    background-color: #39CD8F;
+    border: none;
+    padding: 10px;
+    padding-right: 40px;
+    border-radius: 30px     ;
+}
+.buttonloginmargin{
+    margin-left: 20px;
+
+}
+.margincontactus{
+    margin-top: -100px;
+}
+.marginHome{
+    margin-top: -10px;
+}
+.paddinglogin{
+    padding: 9px;
+
+}.paddingsignup{
+    padding: 9px;
+
+}
+
+
+.marginFAQS{
+    margin-top: -260px;
+}
+
+.marginAbout{
+    margin-bottom: 160px;
+}

@@ -1,0 +1,74 @@
+body{
+    height: 450px;
+}
+.displayFlex{
+    display: flex;
+    height: 450px;
+
+}
+.flexFordiv1{
+    flex: 1;
+}.flexFordiv2{
+    flex: 1;
+}
+
+.flexdirectionfordiv1{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.mtop{
+    margin-top: 220px;
+   
+}
+.hwimage1{
+    margin-top: -240px;
+    margin-left: -170px;
+    height: 250px;
+    width: 450px;
+}
+.hwp1{
+    margin-top: -150px;
+    width: 170px;
+}
+.hwh1{
+    margin-top: -250px;
+    margin-left: -240px;
+}
+.hwa1{
+    margin-left: 150px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: black;
+}
+.hwimage2{
+    height: 400px;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.hwimage3{
+    margin-left: 480px;
+    height: 130px;
+    margin-top: 30px;
+}
+.hdiv{
+    height: 420px;
+}
+.hwh3{
+    margin-top: -150px;
+    margin-left: 60px;
+}
+.hwinp{
+    margin-top: 40px;
+    border-radius: 20px;
+    height: 30px;
+}
+.hwproceed{
+    margin-left: 260px;
+    height: 40px;
+    margin-top: -26px;
+}

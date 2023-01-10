@@ -1,0 +1,57 @@
+
+
+body{
+    
+}
+.displayFlex{
+    display: flex;
+    height: 440px;
+
+}
+
+.flexFordiv1{
+    flex: 1;
+}.flexFordiv2{
+    flex: 1;
+}
+
+.flexdirectionfordiv2{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.mtop{
+    margin-top: 220px;
+    margin-left: -320px;
+}
+.hwimage{
+    height: 220px;
+    width: 400px;
+    
+}
+.hwimage2{
+    height: 400px;
+    margin-top: -10px;
+    margin-left: 60px;
+}
+.hwimage3{
+    height: 60px;
+    width: 60px;
+    margin-left: 140px;
+}
+.mtops{
+    margin-top: 15px;
+    margin-left: 290px;
+    color: black;
+}
+.hwimage4{
+    margin-left: 480px;
+    height: 100px;
+    margin-top: 70px;
+}
+a{
+    text-decoration: none;
+}
